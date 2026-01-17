@@ -42,5 +42,5 @@
 
 ### 📊 GitHub Activities
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=f4song&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f4song&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
