@@ -1,7 +1,7 @@
 # 🔮 Jawoon Song (f4song)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%F0%9F%94%AE+AI+%F0%9F%94%AE;%F0%9F%A7%9D%F1%8F%AA%F1%84%B0;%F0%9F%94%AE+Web_Hacking+%F0%9F%94%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%F0%9F%94%AE+AI+%F0%9F%94%AE;%F0%9F%A7%99%F0%9F%AA%84;%F0%9F%94%AE+Web_Hacking+%F0%9F%94%AE" />
 </p>
 
 <p align="center">
