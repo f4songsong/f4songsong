@@ -46,13 +46,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4songsong&layout=compact&theme=dark&hide_border=true" />
+  <br />
+  <img src="https://ghchart.rshah.org/219138/f4songsong" alt="f4songsong's Github Chart" width="100%" />
+  <br />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/f4songsong" alt="f4songsong's Github Chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f4songsong&show_icons=true&theme=dark&hide_border=true" />
-</p>
