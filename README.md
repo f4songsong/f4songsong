@@ -44,10 +44,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=f4songsong&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
-
-<p align="center">
-  <br />
-  <img src="https://ghchart.rshah.org/219138/f4songsong" alt="f4songsong's Github Chart" width="100%" />
-  <br />
-</p>
-
