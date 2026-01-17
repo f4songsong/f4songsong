@@ -46,13 +46,13 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=f4songsong's%20Garden&fontSize=40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4songsong&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f4songsong&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://ghchart.rshah.org/f4songsong" alt="f4songsong's Github Chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f4songsong&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f4songsong&show_icons=true&theme=dark&hide_border=true" />
 </p>
