@@ -42,14 +42,17 @@
 
 ### 📊 GitHub Activities
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contributions-f4songsong-brightgreen?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=f4songsong&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f4songsong&show_icons=true&theme=transparent&title_color=79ffad&text_color=ffffff&icon_color=79ffad&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=f4songsong's%20Garden&fontSize=40" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f4songsong&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f4songsong&theme=radical&hide_border=true" />
 </p>
