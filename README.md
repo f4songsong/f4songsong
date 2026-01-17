@@ -42,10 +42,5 @@
 
 ### 📊 GitHub Activities
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=f4song&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4song&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://mazipan.github.io/github-snake/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=f4song&theme=dark" />
 </p>
